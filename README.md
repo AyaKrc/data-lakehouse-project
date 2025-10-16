@@ -1,4 +1,4 @@
-# 🏗️ Modern Data Lakehouse Platform
+#  Modern Data Lakehouse Platform
 
 A production-ready data lakehouse implementing medallion architecture (Bronze → Silver → Gold) with Apache Airflow orchestration and comprehensive monitoring.
 
